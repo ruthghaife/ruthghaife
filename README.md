@@ -19,7 +19,6 @@ My work spans the full data science pipeline  from synthetic data generation and
 ###  1. Restaurant Intelligence Platform
 > *Machine Learning · Customer Analytics · Revenue Forecasting · Recommendation Engine*
 
-**[→ View Project](./https://github.com/ruthghaife/restaurant-intelligence-analytics/)**
 
 A complete ML analytics platform applied to 2 years of restaurant operational data:
 - **EDA Dashboard** — revenue trends, peak hours, channel analysis, payment distribution
@@ -35,7 +34,6 @@ A complete ML analytics platform applied to 2 years of restaurant operational da
 ###  2. Medical AI Decision Support System
 > *Precision Medicine · Clinical Analytics · Multi-Model Comparison · Feature Explainability*
 
-**[→ View Project](./project2_medical_ai/)**
 
 AI-powered clinical decision support platform with two independent prediction tasks:
 - **Diabetes Risk** — 6 ML models benchmarked (RF, GB, LR, SVM, KNN, AdaBoost) | Best AUC: 0.963
@@ -50,7 +48,6 @@ AI-powered clinical decision support platform with two independent prediction ta
 ###  3. Smart Surveillance & IoT Anomaly Detection
 > *IoT Sensor Analytics · Network Intrusion Detection · Real-Time Alert Simulation · Edge AI*
 
-**[→ View Project](./project3_smart_surveillance/)**
 
 End-to-end AI security intelligence platform covering physical and cyber surveillance:
 - **IoT Sensor Analytics** — 5-channel time-series (temperature, humidity, motion, sound, vibration) with anomaly overlay
