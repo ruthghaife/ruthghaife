@@ -19,7 +19,7 @@ My work spans the full data science pipeline  from synthetic data generation and
 ###  1. Restaurant Intelligence Platform
 > *Machine Learning · Customer Analytics · Revenue Forecasting · Recommendation Engine*
 
-**[→ View Project]([./project1_restaurant_ai/](https://github.com/ruthghaife/restaurant-intelligence-analytics))**
+**[→ View Project](./https://github.com/ruthghaife/restaurant-intelligence-analytics/)**
 
 A complete ML analytics platform applied to 2 years of restaurant operational data:
 - **EDA Dashboard** — revenue trends, peak hours, channel analysis, payment distribution
