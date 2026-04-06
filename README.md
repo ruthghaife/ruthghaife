@@ -1,23 +1,22 @@
-# 🌍 Ghaife Mabu Ruth — Data Science & AI Portfolio
+#  Ghaife Mabu Ruth — Data Science & AI Portfolio
 
 > **B.Sc. Information Technology** | GNA University, Phagwara, India  
 > ruthghaifemaburuth@gmail.com | +91 9501385794  
-> 🇨🇲 Cameroon → 🇮🇳 India → 🇹🇼 Taiwan (target for graduate study)  
-> **TEEP Internship Applicant 2026**
+> 🇨🇲 Cameroon → 🇮🇳 India  (target for graduate study)   
 
 ---
 
-## 👋 About Me
+##  About Me
 
-I am a final-year Information Technology student from Cameroon, completing my undergraduate degree in India with hands-on experience in data science, machine learning, and applied analytics. I am actively applying for the Taiwan Experience Education Program (TEEP) with the goal of pursuing a Master's degree in AI, Data Science, or Computer Science at a Taiwanese university.
+I am a final-year Information Technology student from Cameroon, completing my undergraduate degree in India with hands-on experience in data science, machine learning, and applied analytics. I am actively making good use of opportunites availaable and developing more skills through internship experiences with the goal of pursuing a Master's degree in AI, Data Science, or Computer Science at a Top Notch university.
 
-My work spans the full data science pipeline — from synthetic data generation and exploratory analysis through supervised and unsupervised ML, model evaluation, and production-quality visualisation.
+My work spans the full data science pipeline  from synthetic data generation and exploratory analysis through supervised and unsupervised ML, model evaluation, and production-quality visualisation.
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🍽️ 1. Restaurant Intelligence Platform
+###  1. Restaurant Intelligence Platform
 > *Machine Learning · Customer Analytics · Revenue Forecasting · Recommendation Engine*
 
 **[→ View Project](./project1_restaurant_ai/)**
@@ -33,7 +32,7 @@ A complete ML analytics platform applied to 2 years of restaurant operational da
 
 ---
 
-### 🏥 2. Medical AI Decision Support System
+###  2. Medical AI Decision Support System
 > *Precision Medicine · Clinical Analytics · Multi-Model Comparison · Feature Explainability*
 
 **[→ View Project](./project2_medical_ai/)**
@@ -48,7 +47,7 @@ AI-powered clinical decision support platform with two independent prediction ta
 
 ---
 
-### 🔐 3. Smart Surveillance & IoT Anomaly Detection
+###  3. Smart Surveillance & IoT Anomaly Detection
 > *IoT Sensor Analytics · Network Intrusion Detection · Real-Time Alert Simulation · Edge AI*
 
 **[→ View Project](./project3_smart_surveillance/)**
@@ -63,7 +62,7 @@ End-to-end AI security intelligence platform covering physical and cyber surveil
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Tools |
 |----------|-------|
@@ -82,7 +81,7 @@ Relevant: Machine Learning · AI · Data Structures & Algorithms · Python · Da
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Data Science Intern** | 2024–2025  
 - Real-world data pipelines for structured dataset processing and ML model development
@@ -90,15 +89,7 @@ Relevant: Machine Learning · AI · Data Structures & Algorithms · Python · Da
 
 ---
 
-## 🇹🇼 Taiwan & TEEP
-
-I am applying to the **Taiwan Experience Education Program (TEEP) 2026** across 15 programs in AI, data analytics, precision medicine, smart systems, and IoT. My target is to transition directly into a Taiwanese Master's program following the internship.
-
-I am actively learning **Mandarin Chinese** in preparation for full integration into Taiwan's academic and professional ecosystem.
-
----
-
-## 📬 Contact
+##  Contact
 
 **Email:** ruthghaifemaburuth@gmail.com  
 **Phone:** +91 9501385794  
